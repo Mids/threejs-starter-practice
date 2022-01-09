@@ -27,7 +27,6 @@ const myTex4 =  textureLoader.load('/textures/particles/4.png')
 const myTex5 =  textureLoader.load('/textures/particles/5.png')
 const myTex6 =  textureLoader.load('/textures/particles/6.png')
 const myTex7 =  textureLoader.load('/textures/particles/7.png')
-const myTex8 =  textureLoader.load('/textures/particles/7.png')
 
 /**
  * Particles
